@@ -25,8 +25,8 @@ Explore our repositories to see how we’re innovating in the field of web mappi
 
 Have questions or want to learn more? We’d love to hear from you!
 
-- **Email**: [email@mapcey.com](mailto:email@mapcey.com)
-- **Website**: [mapcey.com](https://www.mapcey.com)
+- **Email**: [email@mapcey.com](mailto:shbbandara@gmail.com)
+- **Website**: [mapcey.com](https://github.com/Mapcey)
 - **LinkedIn**: [linkedin.com/company/mapcey](https://linkedin.com/company/mapcey)
 
 Thank you for visiting MapCey's GitHub! We look forward to connecting and exploring opportunities together.
